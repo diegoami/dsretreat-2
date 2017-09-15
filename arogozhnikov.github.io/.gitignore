@@ -1,0 +1,7 @@
+_site/
+.sass-cache/
+.mr.developer.cfg
+.project
+.pydevproject
+.idea
+.ipynb_checkpoints

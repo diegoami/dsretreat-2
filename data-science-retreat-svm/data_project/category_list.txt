@@ -1,0 +1,20 @@
+             alt.atheism       0.63      0.41      0.50       319
+           comp.graphics       0.70      0.47      0.56       389
+ comp.os.ms-windows.misc       0.71      0.48      0.58       394
+comp.sys.ibm.pc.hardware       0.66      0.37      0.47       392
+   comp.sys.mac.hardware       0.69      0.44      0.54       385
+          comp.windows.x       0.83      0.48      0.61       395
+            misc.forsale       0.83      0.67      0.74       390
+               rec.autos       0.83      0.50      0.62       396
+         rec.motorcycles       0.93      0.67      0.78       398
+      rec.sport.baseball       0.80      0.48      0.60       397
+        rec.sport.hockey       0.86      0.68      0.76       399
+               sci.crypt       0.93      0.67      0.78       396
+         sci.electronics       0.50      0.23      0.32       393
+                 sci.med       0.76      0.47      0.58       396
+               sci.space       0.88      0.59      0.71       394
+  soc.religion.christian       0.77      0.59      0.67       398
+      talk.politics.guns       0.67      0.52      0.59       364
+   talk.politics.mideast       0.92      0.58      0.71       376
+      talk.politics.misc       0.59      0.31      0.41       310
+      talk.religion.misc       0.47      0.22      0.30       251
