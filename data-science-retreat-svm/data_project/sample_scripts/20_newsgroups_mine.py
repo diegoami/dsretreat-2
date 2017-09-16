@@ -1,5 +1,5 @@
 from sklearn.datasets import fetch_20newsgroups
-train = fetch_20newsgroups(subset='train', remove=('headers'))
+Dockerfiletrain = fetch_20newsgroups(subset='train', remove=('headers'))
 test = fetch_20newsgroups(subset='test', remove=('headers'))
 
 import pickle as cPickle
